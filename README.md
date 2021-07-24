@@ -16,3 +16,9 @@ Gradient decent path planning algorithm for 3 degree of freedom robotic manipula
 #### Example Algorithm Result
 Each column (left to right) represents a manipulator joint based on DH convention. All joints are rotary and results are in degrees.
 ![alt text](https://github.com/moh-asim-iqbal/robotic-path-planning/blob/master/img/path.png)
+
+<object data="https://github.com/moh-asim-iqbal/robotic-path-planning/blob/master/Algorithm%20Report.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/moh-asim-iqbal/robotic-path-planning/blob/master/Algorithm%20Report.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/moh-asim-iqbal/robotic-path-planning/blob/master/Algorithm%20Report.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
